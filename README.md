@@ -2,6 +2,8 @@
 
 Practice typing in the terminal. Shell commands, and short messages like the ones you write to an LLM.
 
+I was learning a new layout and doing well using Monkeytype, Typelit.io, and various other typing sites, but that didn't translate very well to command line interactions. So I wrote this to practice that.
+
 ![clitype demo](demo.gif)
 
 Nothing you type is executed.
